@@ -7,7 +7,6 @@
         [                         P.Con: Using Sprite in Pygame                                         ]
         [                         Date Started: 10-04-2020                                              ]
         [                         Date Finished: 17-04-2020                                             ]
-        [                         ICS3UI-02 for Ms. Harris                                              ]
         [                                                                                               ]
         [-----------------------------------------------------------------------------------------------]
         [                                 Program Description                                           ]
